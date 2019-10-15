@@ -1,0 +1,13 @@
+{
+  "_id": { "$oid": "5d458ac6bd7bcf2ab486b01f" },
+  "balance": { "$numberInt": "0" },
+  "contacts": [],
+  "firstname": "Steven",
+  "lastname": "Kasumba",
+  "email": "skasumba@gmail.com",
+  "password": "$2b$10$oenhy5qcujY1P.L5JhZ7B.Bgo4sFPPDC/32uRBDw2z.4UHD0oPMtq",
+  "dob": { "$date": { "$numberLong": "795733200000" } },
+  "phoneNumber": "07011890672",
+  "transactions": [],
+  "__v": { "$numberInt": "0" }
+}
